@@ -1,0 +1,49 @@
+b{ 
+    font-size: 25px;
+    font-family: Microsoft Himalaya;
+    font-style: italic;
+    text-shadow: 3px 3px lightgrey;
+}
+
+body{
+border: 20px solid rgb(59, 53, 53); 
+width: 500px;
+margin-left: 400px;
+background-image: url(/file.jpg);
+
+}
+
+div{
+    background-color: rgb(231, 231, 231);
+    padding: 40px; 
+    text-shadow: 3px 3px lightgrey;
+}
+
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    text-shadow:  3px 3px rgb(189, 189, 189);
+}
+
+img{
+    margin-left: 100px;
+}
+
+.anchor{
+    margin-left: 800px;
+    font-size: 30px;
+    font-family: Microsoft Himalaya;
+    border: 16px solid rgb(75, 57, 57); 
+    color: darkblue;
+    background-color: cornflowerblue;
+    text-shadow: 3px 3px rgb(189, 189, 189);
+}
+
+.icon{
+    border: 16px solid rgb(0, 0, 0); 
+    margin-left: 80px;
+    box-shadow:6px 6px rgb(161, 161, 161) ;
+}
+
+
